@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat-choke.png">
+<SubTexture name="cat-choke idle0000" x="44" y="0" width="23" height="47" frameX="-18" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke idle0001" x="67" y="0" width="22" height="47" frameX="-19" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke idle0002" x="47" y="49" width="22" height="46" frameX="-19" frameY="-15" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke idle0003" x="67" y="0" width="22" height="47" frameX="-19" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke idle0004" x="44" y="0" width="23" height="47" frameX="-18" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke left0000" x="89" y="0" width="23" height="47" frameX="-17" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke left0001" x="69" y="49" width="23" height="46" frameX="-17" frameY="-15" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke down0000" x="112" y="0" width="23" height="46" frameX="-18" frameY="-15" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke down0001" x="112" y="46" width="23" height="45" frameX="-18" frameY="-16" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke right0000" x="0" y="49" width="23" height="47" frameX="-19" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke right0001" x="23" y="49" width="24" height="47" frameX="-19" frameY="-14" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke up0000" x="22" y="0" width="22" height="48" frameX="-18" frameY="-13" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat-choke up0001" x="0" y="0" width="22" height="49" frameX="-18" frameY="-12" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

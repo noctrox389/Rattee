@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blood.png">
+<SubTexture name="blood blood10000" x="33" y="16" width="7" height="5" frameX="-8" frameY="-8" frameWidth="64" frameHeight="64" />
+<SubTexture name="blood blood20000" x="33" y="9" width="9" height="7" frameX="-7" frameY="-7" frameWidth="64" frameHeight="64" />
+<SubTexture name="blood blood30000" x="33" y="0" width="11" height="9" frameX="-6" frameY="-6" frameWidth="64" frameHeight="64" />
+<SubTexture name="blood blood40000" x="15" y="15" width="13" height="11" frameX="-5" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="blood blood50000" x="0" y="15" width="15" height="13" frameX="-4" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="blood blood60000" x="0" y="0" width="16" height="15" frameX="-3" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="blood blood70000" x="16" y="0" width="17" height="15" frameX="-3" frameY="-3" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

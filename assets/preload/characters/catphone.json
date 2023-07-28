@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "catphone idle"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "catphone left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "catphone down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "catphone up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "catphone right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/catphone",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cat",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		165,
+		105
+	],
+	"camera_position": [
+		-172,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

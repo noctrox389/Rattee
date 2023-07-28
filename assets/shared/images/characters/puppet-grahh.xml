@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="puppet-grahh.png">
+<SubTexture name="puppet-grahh idle0000" x="36" y="0" width="18" height="42" frameX="-6" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh left0000" x="54" y="0" width="18" height="42" frameX="-5" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh left0001" x="72" y="0" width="18" height="42" frameX="-4" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh right0000" x="0" y="44" width="18" height="42" frameX="-7" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh right0001" x="18" y="44" width="19" height="42" frameX="-7" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh down0000" x="37" y="44" width="18" height="41" frameX="-6" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh down0001" x="55" y="44" width="18" height="40" frameX="-6" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh up0000" x="18" y="0" width="18" height="43" frameX="-6" frameY="-1" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-grahh up0001" x="0" y="0" width="18" height="44" frameX="-6" frameY="0" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

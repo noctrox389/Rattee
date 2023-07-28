@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="puppet-puppet-fight.png">
+<SubTexture name="puppet-puppet-fight idle0000" x="44" y="0" width="22" height="40" frameX="-20" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight left0000" x="66" y="0" width="23" height="40" frameX="-19" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight left0001" x="0" y="41" width="22" height="40" frameX="-19" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight right0000" x="22" y="41" width="22" height="40" frameX="-21" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight right0001" x="44" y="41" width="22" height="40" frameX="-22" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight up0000" x="0" y="0" width="22" height="41" frameX="-20" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight up0001" x="22" y="0" width="22" height="41" frameX="-20" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight down0000" x="66" y="41" width="21" height="39" frameX="-21" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppet-puppet-fight down0001" x="89" y="0" width="20" height="38" frameX="-22" frameY="-6" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

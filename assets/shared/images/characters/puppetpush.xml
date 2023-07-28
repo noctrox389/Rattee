@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="puppetpush.png">
+<SubTexture name="puppetpush push0000" x="0" y="0" width="24" height="42" frameX="-6" frameY="-12" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppetpush push0001" x="24" y="0" width="23" height="42" frameX="-7" frameY="-12" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppetpush push0002" x="47" y="0" width="17" height="42" frameX="-13" frameY="-12" frameWidth="64" frameHeight="64" />
+<SubTexture name="puppetpush push0003" x="64" y="0" width="17" height="42" frameX="-16" frameY="-12" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "idle",
+			"loop": true,
+			"name": "puppet-walk walk"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/puppet-walk",
+	"position": [
+		10,
+		0
+	],
+	"healthicon": "puppeteer",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		76,
+		255
+	],
+	"camera_position": [
+		-90,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

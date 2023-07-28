@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rat-rat-fight idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rat-rat-fight left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rat-rat-fight down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rat-rat-fight up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rat-rat-fight right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rat-rat-fight",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "rat",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		132,
+		76
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

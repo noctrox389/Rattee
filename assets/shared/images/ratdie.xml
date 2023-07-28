@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ratdie.png">
+<SubTexture name="ratdie fall0000" x="40" y="0" width="31" height="33" frameX="-13" frameY="-12" frameWidth="64" frameHeight="64" />
+<SubTexture name="ratdie hit0000" x="0" y="0" width="40" height="34" frameX="-8" frameY="-11" frameWidth="64" frameHeight="64" />
+<SubTexture name="ratdie die0000" x="0" y="34" width="43" height="25" frameX="-3" frameY="-26" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

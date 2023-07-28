@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rat-rat-fight.png">
+<SubTexture name="rat-rat-fight idle0000" x="54" y="0" width="27" height="40" frameX="-12" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight right0000" x="0" y="42" width="27" height="39" frameX="-12" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight right0001" x="54" y="42" width="28" height="38" frameX="-11" frameY="-6" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight left0000" x="81" y="0" width="27" height="40" frameX="-12" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight left0001" x="27" y="42" width="27" height="39" frameX="-12" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight up0000" x="27" y="0" width="27" height="41" frameX="-12" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight up0001" x="0" y="0" width="27" height="42" frameX="-12" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight down0000" x="108" y="0" width="27" height="38" frameX="-12" frameY="-6" frameWidth="64" frameHeight="64" />
+<SubTexture name="rat-rat-fight down0001" x="108" y="38" width="27" height="37" frameX="-12" frameY="-7" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

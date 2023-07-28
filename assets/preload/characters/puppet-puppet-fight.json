@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "puppet-puppet-fight right"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "puppet-puppet-fight idle"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "puppet-puppet-fight left"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "puppet-puppet-fight down"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "puppet-puppet-fight up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/puppet-puppet-fight",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "puppeteer",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		76,
+		255
+	],
+	"camera_position": [
+		-90,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

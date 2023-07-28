@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "puppet-rat-fight idle"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "puppet-rat-fight left"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "puppet-rat-fight down"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "puppet-rat-fight up"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "puppet-rat-fight right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/puppet-rat-fight",
+	"position": [
+		-10,
+		0
+	],
+	"healthicon": "puppeteer",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		76,
+		255
+	],
+	"camera_position": [
+		-90,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

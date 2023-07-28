@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "up",
+			"indices": [],
+			"name": "catwalk up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "right",
+			"fps": 5,
+			"name": "catwalk right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/catwalk",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "cat",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		165,
+		105
+	],
+	"camera_position": [
+		-162,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

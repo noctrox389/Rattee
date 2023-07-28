@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat.png">
+<SubTexture name="cat idle0000" x="34" y="0" width="18" height="42" frameX="-12" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat idle0001" x="85" y="43" width="18" height="40" frameX="-12" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat idle0002" x="85" y="43" width="18" height="40" frameX="-12" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat idle0003" x="41" y="43" width="18" height="41" frameX="-12" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat idle0004" x="34" y="0" width="18" height="42" frameX="-12" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat left0000" x="52" y="0" width="26" height="42" frameX="-3" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat left0001" x="59" y="43" width="26" height="41" frameX="-3" frameY="-4" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat down0000" x="112" y="0" width="18" height="40" frameX="-12" frameY="-5" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat down0001" x="112" y="40" width="18" height="39" frameX="-12" frameY="-6" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat up0000" x="78" y="0" width="34" height="42" frameX="-4" frameY="-2" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat up0001" x="0" y="0" width="34" height="43" frameX="-4" frameY="-1" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat right0000" x="0" y="43" width="20" height="42" frameX="-12" frameY="-3" frameWidth="64" frameHeight="64" />
+<SubTexture name="cat right0001" x="20" y="43" width="21" height="42" frameX="-12" frameY="-3" frameWidth="64" frameHeight="64" />
+</TextureAtlas>

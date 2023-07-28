@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "puppetpush push0003"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "push",
+			"loop": false,
+			"name": "puppetpush push"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/puppetpush",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "puppeteer",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		76,
+		255
+	],
+	"camera_position": [
+		-80,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

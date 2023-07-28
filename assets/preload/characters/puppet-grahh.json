@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "puppet-grahh idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "puppet-grahh left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "puppet-grahh down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "puppet-grahh up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "puppet-grahh right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/puppet-grahh",
+	"position": [
+		10,
+		0
+	],
+	"healthicon": "puppeteer",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		76,
+		255
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
